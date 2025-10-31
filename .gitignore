@@ -131,3 +131,6 @@ dmypy.json
 .vscode
 
 .idea
+
+# old templates directory
+old_templates
